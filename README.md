@@ -3,11 +3,12 @@
 This project was bootstrapped with [Create React App]
 
 ## About this project
-Basically it is a joke app it bring jokes from ("https://icanhazdadjoke.com/") using API.
-Library used for fetch API is axios.
-It store the intial joke in local storage and fetch extra joke when I request to API and again store in local storage. 
-It has joke UPVOTE and DOWNVOTE system and show Jokes in a sorted order **non increasing order of their upvote** .
-
+Basically it is a joke app it bring jokes from ("https://icanhazdadjoke.com/") using API.\
+Library used for fetch API is axios.\
+It store the intial joke in local storage and fetch extra joke when I request to API and again store in local storage. \
+It has joke UPVOTE and DOWNVOTE system and show Jokes in a sorted order **non increasing order of their upvote** .\
+\
+\
 
 ### `npm start`
 
